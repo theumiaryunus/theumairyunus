@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Muhammad Umair
 
 
-![1627731989359](https://user-images.githubusercontent.com/63633576/150634668-75877915-9a7d-4585-8642-5a9b47a64e5f.jpg)
+<!-- ![1627731989359](https://user-images.githubusercontent.com/63633576/150634668-75877915-9a7d-4585-8642-5a9b47a64e5f.jpg) -->
 
 *A passionate mobile developer from Pakistan*
 
