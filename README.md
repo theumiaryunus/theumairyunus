@@ -6,10 +6,10 @@
 *A passionate mobile developer from Pakistan*
 
 
-- 🔭 I’m currently working on Flutter and Php
-- 🌱 I’m currently learning Laravel 
+- 🔭 I’m currently working on Node JS (Express)
+- 🌱 I’m currently learning Next 
 - 👯 I’m looking to collaborate on WEB Projects
-- 💬 Ask me about android flutter firebase api
+- 💬 Ask me about android Express
 - 📫 How to reach me: theumairyunus@gmail.com
 - 😄 Pronouns: He/His/Him 😎
 - ⚡ Fun fact: I think I am funny 😂
